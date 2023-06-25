@@ -1,4 +1,5 @@
 Akindo link: https://app.akindo.io/communities/jaBMev98EHxMW4Z8/products/DrgeBZlmvSZwXJ3Oz
+Idea collaboration space: https://docs.google.com/document/d/1XnKyTA8nMwohlXcEooR5-Q3VTrJjP30gZo62JkEVs78/edit?pli=1
 
 TITLE
 Akashi dAPPflex - A flexible approach for transactions approval.
